@@ -1,0 +1,11 @@
+build:
+    version: "2.0" 
+
+cards:
+    message: "Welcome to EazyBank cards related QA APIs"
+    contactDetails:
+        name: "Misha Errol  - QA Lead"
+        email: "misha@eazybank.com"
+    oncallSupport:
+        - (555)555-4567
+        - (555)555-7654

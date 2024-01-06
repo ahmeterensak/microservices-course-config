@@ -1,0 +1,11 @@
+build:
+    version: "1.0" 
+
+cards:
+    message: "Welcome to EazyBank cards related Prod APIs"
+    contactDetails:
+        name: "Reem Aoibhinn  - Product Owner"
+        email: "reem@eazybank.com"
+    oncallSupport:
+        - (555)555-8901
+        - (555)555-1098

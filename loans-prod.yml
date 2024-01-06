@@ -1,0 +1,11 @@
+build:
+    version: "1.0" 
+
+loans:
+    message: "Welcome to EazyBank loans related Prod APIs"
+    contactDetails:
+        name: "Túlio Corraidhín  - Product Owner"
+        email: "túlio@eazybank.com"
+    oncallSupport:
+        - (555)555-8901
+        - (555)555-1098
