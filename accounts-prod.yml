@@ -5,7 +5,7 @@ accounts:
     message: "Welcome to EazyBank accounts related Prod APIs"
     contactDetails:
         name: "Reina Ray  - Product Owner"
-        email: "ray@eazybank.com"
+        email: "{cipher}dafc1e8b0ee9dec4c8f55f2b8231753cd78f8293b91dafdf89402d6b701adae2c719c5872dd7bbd805eb5ae22b79d029"
     oncallSupport:
         - (555)555-8901
         - (555)555-1098
